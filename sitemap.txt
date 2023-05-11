@@ -1,0 +1,4 @@
+https://spartahawk.github.io/badtranscripts/index.html
+https://spartahawk.github.io/badtranscripts/byg*.html
+https://spartahawk.github.io/badtranscripts/aj*.html
+https://spartahawk.github.io/badtranscripts/g*.html
